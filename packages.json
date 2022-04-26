@@ -2,5 +2,41 @@
   {
     "package": "r2dii.interactive",
     "url": "https://github.com/2DegreesInvesting/r2dii.interactive"
+  },
+  {
+    "package": "r2dii.data",
+    "url": "https://github.com/2DegreesInvesting/r2dii.data"
+  },
+  {
+    "package": "r2dii.plot",
+    "url": "https://github.com/2DegreesInvesting/r2dii.plot"
+  },
+  {
+    "package": "r2dii.climate.stress.test",
+    "url": "https://github.com/2DegreesInvesting/r2dii.climate.stress.test"
+  },
+  {
+    "package": "r2dii.analysis",
+    "url": "https://github.com/2DegreesInvesting/r2dii.analysis"
+  },
+  {
+    "package": "r2dii.match",
+    "url": "https://github.com/2DegreesInvesting/r2dii.match"
+  },
+  {
+    "package": "r2dii.physical.risk",
+    "url": "https://github.com/2DegreesInvesting/r2dii.physical.risk"
+  },
+  {
+    "package": "r2dii.colours",
+    "url": "https://github.com/2DegreesInvesting/r2dii.colours"
+  },
+  {
+    "package": "r2dii.utils",
+    "url": "https://github.com/2DegreesInvesting/r2dii.utils"
+  },
+  {
+    "package": "r2dii.banks",
+    "url": "https://github.com/2DegreesInvesting/r2dii.banks"
   }
 ]
