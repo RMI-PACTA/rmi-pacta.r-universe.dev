@@ -38,5 +38,13 @@
   {
     "package": "r2dii.banks",
     "url": "https://github.com/2DegreesInvesting/r2dii.banks"
+  },
+  {
+    "package": "pacta.data.preparation",
+    "url": "https://github.com/2DegreesInvesting/pacta.data.preparation"
+  },
+  {
+    "package": "pacta.portfolio.analysis",
+    "url": "https://github.com/2DegreesInvesting/pacta.portfolio.analysis"
   }
 ]
