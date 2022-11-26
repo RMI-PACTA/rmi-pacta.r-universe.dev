@@ -1,39 +1,51 @@
 [
   {
+    "package": "pacta.portfolio.import",
+    "url": "https://github.com/rmi-pacta/pacta.portfolio.import"
+  },
+  {
+    "package": "pacta.portfolio.analysis",
+    "url": "https://github.com/rmi-pacta/pacta.portfolio.analysis"
+  },
+  {
+    "package": "pacta.interactive.report",
+    "url": "https://github.com/rmi-pacta/pacta.interactive.report"
+  },
+  {
+    "package": "pacta.executive.summary",
+    "url": "https://github.com/rmi-pacta/pacta.executive.summary"
+  },
+  {
     "package": "r2dii.interactive",
-    "url": "https://github.com/2DegreesInvesting/r2dii.interactive"
+    "url": "https://github.com/rmi-pacta/r2dii.interactive"
   },
   {
     "package": "r2dii.data",
-    "url": "https://github.com/2DegreesInvesting/r2dii.data"
+    "url": "https://github.com/rmi-pacta/r2dii.data"
   },
   {
     "package": "r2dii.plot",
-    "url": "https://github.com/2DegreesInvesting/r2dii.plot"
-  },
-  {
-    "package": "r2dii.climate.stress.test",
-    "url": "https://github.com/2DegreesInvesting/r2dii.climate.stress.test"
+    "url": "https://github.com/rmi-pacta/r2dii.plot"
   },
   {
     "package": "r2dii.analysis",
-    "url": "https://github.com/2DegreesInvesting/r2dii.analysis"
+    "url": "https://github.com/rmi-pacta/r2dii.analysis"
   },
   {
     "package": "r2dii.match",
-    "url": "https://github.com/2DegreesInvesting/r2dii.match"
+    "url": "https://github.com/rmi-pacta/r2dii.match"
   },
   {
     "package": "r2dii.physical.risk",
-    "url": "https://github.com/2DegreesInvesting/r2dii.physical.risk"
+    "url": "https://github.com/rmi-pacta/r2dii.physical.risk"
   },
   {
     "package": "r2dii.colours",
-    "url": "https://github.com/2DegreesInvesting/r2dii.colours"
+    "url": "https://github.com/rmi-pacta/r2dii.colours"
   },
   {
     "package": "r2dii.utils",
-    "url": "https://github.com/2DegreesInvesting/r2dii.utils"
+    "url": "https://github.com/rmi-pacta/r2dii.utils"
   },
   {
     "package": "r2dii.banks",
