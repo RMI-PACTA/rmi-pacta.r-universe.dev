@@ -24,8 +24,8 @@
     "url": "https://github.com/rmi-pacta/pacta.executive.summary"
   },
   {
-    "package": "r2dii.interactive",
-    "url": "https://github.com/rmi-pacta/r2dii.interactive"
+    "package": "pacta.interactive.plot",
+    "url": "https://github.com/rmi-pacta/pacta.interactive.plot"
   },
   {
     "package": "r2dii.data",
