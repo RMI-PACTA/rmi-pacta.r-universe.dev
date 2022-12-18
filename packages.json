@@ -8,6 +8,10 @@
     "url": "https://github.com/rmi-pacta/pacta.data.preparation"
   },
   {
+    "package": "pacta.data.validation",
+    "url": "https://github.com/rmi-pacta/pacta.data.validation"
+  },
+  {
     "package": "pacta.portfolio.import",
     "url": "https://github.com/rmi-pacta/pacta.portfolio.import"
   },
