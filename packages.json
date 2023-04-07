@@ -4,6 +4,10 @@
     "url": "https://github.com/rmi-pacta/pacta.scenario.preparation"
   },
   {
+    "package": "pacta.data.scraping",
+    "url": "https://github.com/rmi-pacta/pacta.data.scraping"
+  },
+  {
     "package": "pacta.data.preparation",
     "url": "https://github.com/rmi-pacta/pacta.data.preparation"
   },
