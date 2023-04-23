@@ -36,8 +36,8 @@
     "url": "https://github.com/rmi-pacta/pacta.interactive.plot"
   },
   {
-    "package": "pacta.supervisor.analysis",
-    "url": "https://github.com/rmi-pacta/pacta.supervisor.analysis"
+    "package": "pacta.aggregate.loanbook.plots",
+    "url": "https://github.com/rmi-pacta/pacta.aggregate.loanbook.plots"
   },
   {
     "package": "pacta.loanbook.addons",
