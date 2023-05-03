@@ -1,5 +1,9 @@
 [
   {
+    "package": "pactaverse",
+    "url": "https://github.com/rmi-pacta/pactaverse"
+  },
+  {
     "package": "pacta.scenario.preparation",
     "url": "https://github.com/rmi-pacta/pacta.scenario.preparation"
   },
