@@ -20,6 +20,10 @@
     "url": "https://github.com/rmi-pacta/pacta.data.validation"
   },
   {
+    "package": "pacta.portfolio.allocate",
+    "url": "https://github.com/rmi-pacta/pacta.portfolio.allocate"
+  },
+  {
     "package": "pacta.portfolio.utils",
     "url": "https://github.com/rmi-pacta/pacta.portfolio.utils"
   },
