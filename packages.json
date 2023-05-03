@@ -24,6 +24,10 @@
     "url": "https://github.com/rmi-pacta/pacta.portfolio.import"
   },
   {
+    "package": "pacta.portfolio.audit",
+    "url": "https://github.com/rmi-pacta/pacta.portfolio.audit"
+  },
+  {
     "package": "pacta.portfolio.analysis",
     "url": "https://github.com/rmi-pacta/pacta.portfolio.analysis"
   },
