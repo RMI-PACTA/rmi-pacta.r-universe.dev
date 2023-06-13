@@ -40,8 +40,8 @@
     "url": "https://github.com/rmi-pacta/pacta.portfolio.analysis"
   },
   {
-    "package": "pacta.interactive.report",
-    "url": "https://github.com/rmi-pacta/pacta.interactive.report"
+    "package": "pacta.portfolio.report",
+    "url": "https://github.com/rmi-pacta/pacta.portfolio.report"
   },
   {
     "package": "pacta.executive.summary",
