@@ -36,10 +36,6 @@
     "url": "https://github.com/rmi-pacta/pacta.portfolio.audit"
   },
   {
-    "package": "pacta.portfolio.analysis",
-    "url": "https://github.com/rmi-pacta/pacta.portfolio.analysis"
-  },
-  {
     "package": "pacta.portfolio.report",
     "url": "https://github.com/rmi-pacta/pacta.portfolio.report"
   },
