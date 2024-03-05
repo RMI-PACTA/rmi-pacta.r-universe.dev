@@ -78,9 +78,5 @@
   {
     "package": "r2dii.colours",
     "url": "https://github.com/rmi-pacta/r2dii.colours"
-  },
-  {
-    "package": "r2dii.banks",
-    "url": "https://github.com/2DegreesInvesting/r2dii.banks"
   }
 ]
