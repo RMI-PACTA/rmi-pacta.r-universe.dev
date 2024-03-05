@@ -68,10 +68,6 @@
     "url": "https://github.com/rmi-pacta/r2dii.match"
   },
   {
-    "package": "r2dii.physical.risk",
-    "url": "https://github.com/rmi-pacta/r2dii.physical.risk"
-  },
-  {
     "package": "r2dii.colours",
     "url": "https://github.com/rmi-pacta/r2dii.colours"
   }
