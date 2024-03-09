@@ -3,18 +3,18 @@
     "package": "pactaverse",
     "url": "https://github.com/rmi-pacta/pactaverse"
   },
-  {
-    "package": "pacta.scenario.preparation",
-    "url": "https://github.com/rmi-pacta/pacta.scenario.preparation"
-  },
+  //{
+  //  "package": "pacta.scenario.preparation",
+  //  "url": "https://github.com/rmi-pacta/pacta.scenario.preparation"
+  //},
   {
     "package": "pacta.data.scraping",
     "url": "https://github.com/rmi-pacta/pacta.data.scraping"
   },
-  {
-    "package": "pacta.data.preparation",
-    "url": "https://github.com/rmi-pacta/pacta.data.preparation"
-  },
+  //{
+  //  "package": "pacta.data.preparation",
+  //  "url": "https://github.com/rmi-pacta/pacta.data.preparation"
+  //},
   {
     "package": "pacta.data.validation",
     "url": "https://github.com/rmi-pacta/pacta.data.validation"
