@@ -3,10 +3,10 @@
     "package": "pactaverse",
     "url": "https://github.com/rmi-pacta/pactaverse"
   },
-  //{
-  //  "package": "pacta.scenario.preparation",
-  //  "url": "https://github.com/rmi-pacta/pacta.scenario.preparation"
-  //},
+  {
+    "package": "pacta.scenario.data.preparation",
+    "url": "https://github.com/rmi-pacta/pacta.scenario.data.preparation"
+  },
   {
     "package": "pacta.data.scraping",
     "url": "https://github.com/rmi-pacta/pacta.data.scraping"
