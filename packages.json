@@ -78,5 +78,9 @@
   {
     "package": "r2dii.colours",
     "url": "https://github.com/rmi-pacta/r2dii.colours"
+  },
+  {
+    "package": "workflow.multi.loanbook",
+    "url": "https://github.com/rmi-pacta/workflow.multi.loanbook"
   }
 ]
