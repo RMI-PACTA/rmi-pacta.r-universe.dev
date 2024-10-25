@@ -52,10 +52,6 @@
     "url": "https://github.com/rmi-pacta/pacta.aggregate.loanbook.plots"
   },
   {
-    "package": "pacta.multi.loanbook.plot",
-    "url": "https://github.com/rmi-pacta/pacta.multi.loanbook.plot"
-  },
-  {
     "package": "pacta.scenario.data.preparation",
     "url": "https://github.com/rmi-pacta/pacta.scenario.data.preparation"
   },
