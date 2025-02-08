@@ -74,5 +74,9 @@
   {
     "package": "pacta.multi.loanbook",
     "url": "https://github.com/rmi-pacta/pacta.multi.loanbook"
+  },
+  {
+    "package": "pacta.loanbook",
+    "url": "https://github.com/rmi-pacta/pacta.loanbook"
   }
 ]
